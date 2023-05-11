@@ -95,8 +95,13 @@ export default {
         nombreRuta: 'referencias',
       },
       {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/512400_CF05_DU.pdf',
+      },
+      {
         icono: 'fas fa-download',
-        titulo: 'Descargar material',
+        titulo: 'Descargar HTML',
         download: 'downloads/material.zip',
       },
       {
@@ -120,15 +125,14 @@ export default {
       referencia:
         'Canal 13. (2021). <em>¿Cómo es el trabajo de un intérprete de lengua de señas en Canal Trece Colombia?</em>',
       tipo: 'Video',
-      descarga:
-        'https://cultura-sorda.org/wp-content/uploads/2015/03/Burad_teoria_interpretativa_binomio_lengua_senas_lengua_hablada_2009.pdf',
+      link: 'https://www.youtube.com/watch?v=IvdIad2tFIM',
     },
     {
       tema: 'Ejercicio de la interpretación',
       referencia:
         'TEDxMarDelPlata. (2019). <em>La lengua de señas transforma realidades.</em>',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=Jis9j5gtZgA',
+      link: 'https://www.youtube.com/watch?v=Jis9j5gtZgA',
     },
   ],
   glosario: [
@@ -235,6 +239,17 @@ export default {
             'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander.',
         },
         {
+          nombre: 'Luz Mila Pacheco Fuentes',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Sergio Arturo Medina Castillo',
+          cargo: 'Evaluador Instruccional',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        },
+        {
           nombre: 'Ana Catalina Córdoba Sus ',
           cargo: 'Asesora Metodológica',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
@@ -284,6 +299,12 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
+        {
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Validación y vinculación en plataforma LMS',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
           cargo: 'Validación y vinculación en plataforma LMS',

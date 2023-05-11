@@ -298,7 +298,7 @@
 
     p.mb-5 Antes de pasar a valorar el desempeño del intérprete, es necesario definir qué se va a evaluar o, en otras palabras, las características que debe tener un intérprete de lengua de señas. Aunque los autores hablan de diferentes habilidades que requieren los intérpretes, se pueden mencionar las siguientes:
 
-    .row.mt-5.justify-content-center
+    .row.mt-5.justify-content-center.mb-4
       .col-lg-10
         //AcordionA(tipo="b" clase-tarjeta="tarjeta")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -370,6 +370,10 @@
               figure
                 img(src='@/assets/curso/tema1/img10.svg', style="width:245px").m-auto
 
+
+    p Después de tener claras las características que debe tener un intérprete, es más sencillo apuntar hacia la valoración del proceso de interpretación.
+
+    p Quienes forman parte de este procedimiento deben ser intérpretes que conozcan las modalidades que se valoran, además, de conocer la lengua origen y la lengua meta.
     separador
 
     #t_1_2
@@ -450,7 +454,7 @@
 
           p.text-small(numero="2" titulo="Análisis de un experto") Es importante que dentro del proceso de formación del intérprete de LSC, se establezcan relaciones acertadas con expertos en este tema, analizando cada una de sus acciones y procesos, ello permite fortalecer la labor de aprendizaje frente a técnicas puntuales de interpretación.
 
-          p.text-small(numero="3" titulo="Intervención acertada de un experto.") Es fundamental escuchar las sugerencias que puedan brindar los expertos de este tema, la escucha asertiva frente a las sugerencias dadas facilitará el desarrollo de la labor, es importante aceptar sugerencias para ir mejorando el proceso de aprendizaje dentro de este contexto.
+          p.text-small(numero="3" titulo="Intervención acertada de un experto") Es fundamental escuchar las sugerencias que puedan brindar los expertos de este tema, la escucha asertiva frente a las sugerencias dadas facilitará el desarrollo de la labor, es importante aceptar sugerencias para ir mejorando el proceso de aprendizaje dentro de este contexto.
 
           p.text-small(numero="4" titulo="Memorización en estrategias dadas en retroalimentación") Es fundamental aplicar cada uno de los consejos dados por expertos y aplicarlos en todas las interpretaciones que se vayan a realizar, el memorizar cada una de las sugerencias, consejos, ideas contribuirá a realizar dicha labor con la mejor calidad posible.
 
