@@ -28,8 +28,14 @@
         p.mb-0 Generalmente la interpretación que incluye a las lenguas de señas es casi que inmediata y el discurso suele ser impredecible y dinámico; de ahí la importancia de la destreza que tiene el intérprete y el saber interpretar y gestionar las ayudas no verbales.
 
 
-    .bg-c5.mb-4
-      span.h4(data-aos="fade-up") Análisis contrastivo de la lengua
+    .row.justify-content-start.mb-4      
+      .col-auto.bg9-1.p-0(data-aos="flip-down")
+        .list.mb-1
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/v2.svg', alt='')
+          .list__txt
+            h4.mb-0 Análisis contrastivo de la lengua
 
     p.mb-4 En la década de 1950 y 1960 del siglo pasado se desarrolló una corriente encabezada por el profesor norteamericano Robert Lado (1957), cuyo propósito era el de comparar dos sistemas lingüísticos observando las diferencias y similitudes de la lengua origen y la lengua meta desde su estructura, sistemas de signos y códigos, además de identificar cómo estas lenguas se procesaban y se reproducían.
 
@@ -74,8 +80,14 @@
               p.text-center Conocer la organización de la estructura del discurso, la apropiación gramatical, el estilo de la conversación y el estilo del hablante - señante.
 
 
-    .bg-c5.mb-4
-      span.h4(data-aos="fade-up") Equivalencias entre las dos lenguas
+    .row.justify-content-start.mb-4      
+      .col-auto.bg9-1.p-0(data-aos="flip-down")
+        .list.mb-1
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/v2.svg', alt='')
+          .list__txt
+            h4.mb-0 Equivalencias entre las dos lenguas
 
 
     p.mb-4 Para trabajar las equivalencias entre el par lingüístico del español y la Lengua de Señas Colombiana, es necesario entender que los canales de transmisión del mensaje son completamente diferentes, por lo que la equivalencia no puede transmitirse entre palabra-seña o seña-palabra. Así, Burad (2009), habla de una teoría interpretativa sentido por sentido.
@@ -123,8 +135,14 @@
           img(src='@/assets/curso/tema1/info2_movil.svg').m-auto
 
 
-    .bg-c5.mb-4
-      span.h4(data-aos="fade-up") Reestructuración del mensaje
+    .row.justify-content-start.mb-4      
+      .col-auto.bg9-1.p-0(data-aos="flip-down")
+        .list.mb-1
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/v2.svg', alt='')
+          .list__txt
+            h4.mb-0 Reestructuración del mensaje
 
 
     .row.mb-4.justify-content-center
@@ -289,8 +307,14 @@
           .col
             p La interpretación es una suma de todos esfuerzos combinados que da como resultado el discurso meta final. Este esfuerzo hace referencia a la habilidad que tiene el intérprete para coordinarlos equilibradamente y cubrir las necesidades de la interpretación final.
 
-    .bg-c5.mb-4
-      span.h4(data-aos="fade-up") Valoración del proceso de interpretación, de pertinencia y de coherencia del discurso
+    .row.justify-content-start.mb-4      
+      .col-auto.bg9-1.p-0(data-aos="flip-down")
+        .list.mb-1
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/v2.svg', alt='')
+          .list__txt
+            h4.mb-0 Valoración del proceso de interpretación, de pertinencia y de coherencia del discurso
 
     p.mb-5 Antes de pasar a valorar el desempeño del intérprete, es necesario definir qué se va a evaluar o, en otras palabras, las características que debe tener un intérprete de lengua de señas. Aunque los autores hablan de diferentes habilidades que requieren los intérpretes, se pueden mencionar las siguientes:
 
@@ -383,8 +407,14 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Como cualquier otro intérprete de lengua de señas, el intérprete de apoyo, o segundo intérprete, es un experto con las competencias necesarias en lengua de señas y el español, capaz de transmitir señas o palabras a su compañero sin alterar el mensaje ni interrumpirlo.
 
-    .bg-c5.mb-4
-      span.h4(data-aos="fade-up") Perfil del intérprete de apoyo
+    .row.justify-content-start.mb-4      
+      .col-auto.bg9-1.p-0(data-aos="flip-down")
+        .list.mb-1
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/v2.svg', alt='')
+          .list__txt
+            h4.mb-0 Perfil del intérprete de apoyo
 
     p.mb-4 Además de los conocimientos en la lengua oral y la lengua de señas, también es necesario en el perfil del intérprete de apoyo, las siguientes características y funciones:
 
@@ -421,8 +451,14 @@
         figure
           img(src="@/assets/curso/tema1/img13.png")(data-aos="fade-left")
 
-    .bg-c5.mb-4
-      span.h4(data-aos="fade-up") Estrategias
+    .row.justify-content-start.mb-4      
+      .col-auto.bg9-1.p-0(data-aos="flip-down")
+        .list.mb-1
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/v2.svg', alt='')
+          .list__txt
+            h4.mb-0 Estrategias
 
     p.mb-4 Las estrategias se derivan de los objetivos y hacen parte del plan de acción propuesto en una determinada línea, se componen de un conjunto de acciones dirigidas al logro del aprendizaje; para el caso de la Lengua de Señas Colombianas – español, de acuerdo con Martínez, et al. (2018):
 
@@ -493,8 +529,14 @@
                 .h5.mb-2 ¿Qué es?
                 p El análisis en la Lengua de Señas Colombianas - español, es un proceso detallado que forma parte del aprendizaje y de la ejecución en el ejercicio de interpretación y traducción.
 
-    .bg-c5.mb-4
-      span.h4(data-aos="fade-up") Estrategias de mejoramiento
+    .row.justify-content-start.mb-4      
+      .col-auto.bg9-1.p-0(data-aos="flip-down")
+        .list.mb-1
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/v2.svg', alt='')
+          .list__txt
+            h4.mb-0 Estrategias de mejoramiento
 
 
     .row.align-items-center.mb-4
