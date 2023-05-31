@@ -76,13 +76,15 @@
     background-color: white
     border-radius: 15px
   &-c5
-    h4
-      color: white
+    display: inline-block
     background-color: #0079B9
     border-top-right-radius: 20px
     border-bottom-left-radius: 20px
-    padding-top: .4em
-    padding-bottom: .4em
+    padding: 12px 24px
+    span
+      color: #fff
+    h4
+      color: white
 
   &-c7
     background-color: #E1F3FC
@@ -286,8 +288,11 @@
     display: none
 
 
+
 .img230
   width: 230px
+  @media (max-width: 1199px)
+    width: 220px
 
 .img112
   width: 112px

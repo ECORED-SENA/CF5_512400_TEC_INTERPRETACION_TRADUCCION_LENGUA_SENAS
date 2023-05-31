@@ -28,9 +28,8 @@
         p.mb-0 Generalmente la interpretación que incluye a las lenguas de señas es casi que inmediata y el discurso suele ser impredecible y dinámico; de ahí la importancia de la destreza que tiene el intérprete y el saber interpretar y gestionar las ayudas no verbales.
 
 
-    .row.mb-4
-      .col-auto.bg-c5
-        h4.mb-0.py-2.px-5(data-aos="fade-up") Análisis contrastivo de la lengua
+    .bg-c5.mb-4
+      span.h4(data-aos="fade-up") Análisis contrastivo de la lengua
 
     p.mb-4 En la década de 1950 y 1960 del siglo pasado se desarrolló una corriente encabezada por el profesor norteamericano Robert Lado (1957), cuyo propósito era el de comparar dos sistemas lingüísticos observando las diferencias y similitudes de la lengua origen y la lengua meta desde su estructura, sistemas de signos y códigos, además de identificar cómo estas lenguas se procesaban y se reproducían.
 
@@ -75,9 +74,8 @@
               p.text-center Conocer la organización de la estructura del discurso, la apropiación gramatical, el estilo de la conversación y el estilo del hablante - señante.
 
 
-    .row.mb-4
-      .col-auto.bg-c5
-        h4.mb-0.py-2.px-5(data-aos="fade-up") Equivalencias entre las dos lenguas
+    .bg-c5.mb-4
+      span.h4(data-aos="fade-up") Equivalencias entre las dos lenguas
 
 
     p.mb-4 Para trabajar las equivalencias entre el par lingüístico del español y la Lengua de Señas Colombiana, es necesario entender que los canales de transmisión del mensaje son completamente diferentes, por lo que la equivalencia no puede transmitirse entre palabra-seña o seña-palabra. Así, Burad (2009), habla de una teoría interpretativa sentido por sentido.
@@ -125,9 +123,8 @@
           img(src='@/assets/curso/tema1/info2_movil.svg').m-auto
 
 
-    .row.mb-4
-      .col-auto.bg-c5
-        h4.mb-0.py-2.px-5(data-aos="fade-up") Reestructuración del mensaje
+    .bg-c5.mb-4
+      span.h4(data-aos="fade-up") Reestructuración del mensaje
 
 
     .row.mb-4.justify-content-center
@@ -260,11 +257,11 @@
                 .h5.mb-2 Esfuerzo de memoria
                 p Comprende las operaciones relacionadas con el almacenamiento en la memoria de segmentos del discurso hasta que son transmitidos en la lengua de llegada. En este esfuerzo intervienen, básicamente, aspectos físicos y tácticos.
 
-              .tarjeta.color-acento-botones.p-3(x="73%" y="51.5%" numero="+")
+              .tarjeta.color-acento-botones.p-3(x="27.5%" y="67%" numero="+")
                 .h5.mb-2 Esfuerzo de comprensión
                 p Está relacionado con todas aquellas operaciones mentales que contribuyen a la percepción auditiva del discurso y a la atribución de un significado concreto a los segmentos discursivos, la comprensión determina lo que el intérprete “oye”, una vez se efectúa la escucha, se debe analizar la información y asignarle un significado.
 
-              .tarjeta.color-acento-botones.p-3(x="27.5%" y="67%" numero="+")
+              .tarjeta.color-acento-botones.p-3(x="73%" y="51.5%" numero="+")
                 .h5.mb-2 Esfuerzo de producción
                 p Expone Gile que el esfuerzo de producción comprende todas las operaciones mentales que intervienen cuando el intérprete transmite un fragmento de información o una idea y cuando produce oralmente el enunciado que ha construido para expresarla.
               .tarjeta.color-acento-botones.p-3(x="73%" y="67%" numero="+")
@@ -292,9 +289,8 @@
           .col
             p La interpretación es una suma de todos esfuerzos combinados que da como resultado el discurso meta final. Este esfuerzo hace referencia a la habilidad que tiene el intérprete para coordinarlos equilibradamente y cubrir las necesidades de la interpretación final.
 
-    .row.mb-4
-      .col-auto.bg-c5
-        h4.mb-0.py-2.px-5(data-aos="fade-up") Valoración del proceso de interpretación, de pertinencia y de coherencia del discurso
+    .bg-c5.mb-4
+      span.h4(data-aos="fade-up") Valoración del proceso de interpretación, de pertinencia y de coherencia del discurso
 
     p.mb-5 Antes de pasar a valorar el desempeño del intérprete, es necesario definir qué se va a evaluar o, en otras palabras, las características que debe tener un intérprete de lengua de señas. Aunque los autores hablan de diferentes habilidades que requieren los intérpretes, se pueden mencionar las siguientes:
 
@@ -387,9 +383,8 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Como cualquier otro intérprete de lengua de señas, el intérprete de apoyo, o segundo intérprete, es un experto con las competencias necesarias en lengua de señas y el español, capaz de transmitir señas o palabras a su compañero sin alterar el mensaje ni interrumpirlo.
 
-    .row.mb-4
-      .col-auto.bg-c5
-        h4.mb-0.py-2.px-5(data-aos="fade-up") Perfil del intérprete de apoyo
+    .bg-c5.mb-4
+      span.h4(data-aos="fade-up") Perfil del intérprete de apoyo
 
     p.mb-4 Además de los conocimientos en la lengua oral y la lengua de señas, también es necesario en el perfil del intérprete de apoyo, las siguientes características y funciones:
 
@@ -426,9 +421,8 @@
         figure
           img(src="@/assets/curso/tema1/img13.png")(data-aos="fade-left")
 
-    .row.mb-4
-      .col-auto.bg-c5
-        h4.mb-0.py-2.px-5(data-aos="fade-up") Estrategias
+    .bg-c5.mb-4
+      span.h4(data-aos="fade-up") Estrategias
 
     p.mb-4 Las estrategias se derivan de los objetivos y hacen parte del plan de acción propuesto en una determinada línea, se componen de un conjunto de acciones dirigidas al logro del aprendizaje; para el caso de la Lengua de Señas Colombianas – español, de acuerdo con Martínez, et al. (2018):
 
@@ -499,9 +493,8 @@
                 .h5.mb-2 ¿Qué es?
                 p El análisis en la Lengua de Señas Colombianas - español, es un proceso detallado que forma parte del aprendizaje y de la ejecución en el ejercicio de interpretación y traducción.
 
-    .row.mb-4
-      .col-auto.bg-c5
-        h4.mb-0.py-2.px-5(data-aos="fade-up") Estrategias de mejoramiento
+    .bg-c5.mb-4
+      span.h4(data-aos="fade-up") Estrategias de mejoramiento
 
 
     .row.align-items-center.mb-4

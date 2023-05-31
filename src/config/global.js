@@ -183,7 +183,6 @@ export default {
     {
       referencia:
         'Martínez, D. L., Barreto, A. G., Corredor, A., y Zapata, S. A. (2018). <em>Formación en Lengua de Señas Colombiana LSC: Una sistematización de la experiencia de Fenascol</em>. UNAD - Fenascol.',
-      link: 'https://hemeroteca.unad.edu.co/index.php/book/issue/view/280',
     },
   ],
   creditos: [
@@ -218,7 +217,7 @@ export default {
         },
         {
           nombre: 'German Albeiro Saldarriga ',
-          cargo: 'Instructora',
+          cargo: 'Instructor',
           centro: 'Centro de Servicios de Salud - Regional Antioquia.',
         },
         {
@@ -301,19 +300,19 @@ export default {
       autores: [
         {
           nombre: 'Zuleidy María Ruíz Torres',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Daniel Ricardo Mutis',
-          cargo: 'Validación de contenidos accesibles',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
