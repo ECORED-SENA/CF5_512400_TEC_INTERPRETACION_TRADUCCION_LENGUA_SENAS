@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="516.512" height="123.479" viewBox="0 0 516.512 123.479">
+  <defs>
+    <filter id="Unión_1" x="0" y="0" width="516.512" height="123.479" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1014563" data-name="Grupo 1014563" transform="translate(-102 -3784.348)">
+    <g id="Grupo_1014562" data-name="Grupo 1014562" transform="translate(-69 -17.739)">
+      <g id="Grupo_1003570" data-name="Grupo 1003570" transform="translate(216 3802.087)">
+        <g transform="matrix(1, 0, 0, 1, -45, 0)" filter="url(#Unión_1)">
+          <path id="Unión_1-2" data-name="Unión 1" d="M17,0H481.512a17,17,0,0,1,17,17v88.479H0V17A17,17,0,0,1,17,0Z" transform="translate(9 6)" fill="#112e4c"/>
+        </g>
+      </g>
+      <text id="Estructura_de_un_mensaje_efectivo_en_la_Lengua_de_Señas_" data-name="Estructura de un  mensaje efectivo en la Lengua de Señas
+" transform="translate(427.659 3845.087)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-232.941" y="0" xml:space="preserve">Estructura de un  mensaje efectivo en la Lengua de Señas</tspan><tspan x="0" y="27"></tspan></text>
+    </g>
+  </g>
+</svg>
